@@ -1,0 +1,28 @@
+{
+    "files.associations": {
+        "closestpointutilities.h": "c",
+        "cmath": "c",
+        "array": "c",
+        "string": "c",
+        "string_view": "c",
+        "vector": "c",
+        "*.tcc": "cpp",
+        "unordered_map": "cpp",
+        "memory": "cpp",
+        "istream": "cpp",
+        "ostream": "cpp",
+        "streambuf": "cpp",
+        "functional": "cpp",
+        "tuple": "cpp",
+        "pointsortutilities.h": "c",
+        "stdlib.h": "c",
+        "sortutilities.h": "c",
+        "time.h": "c",
+        "string.h": "c",
+        "stdio.h": "c",
+        "mpi.h": "c",
+        "float.h": "c",
+        "initializer_list": "c",
+        "utility": "c"
+    }
+}
